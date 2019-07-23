@@ -45,4 +45,7 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
+  array = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
+  array.flatten
+end
   
