@@ -22,4 +22,7 @@ def using_shift(array)
   array = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   array.shift
 end
+
+def shift_with_args(array)
+  arr
   
