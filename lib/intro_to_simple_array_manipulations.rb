@@ -40,4 +40,5 @@ def using_insert(array, element)
 end
   
 def using_uniq
+  array = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   
